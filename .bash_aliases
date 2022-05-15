@@ -25,6 +25,7 @@ alias upgrade='sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-
 ###	Update the System and Packages on Ubuntu - based distros
 
 alias cls='clear'
+alias dir='ls lh'
 ###	faster to type
 
 function isup() { ping -a -b -c 1 -D "$@"; }
