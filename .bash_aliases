@@ -3,10 +3,16 @@
 ##	Random Password Generator Functions
 ###	64 digits
 alias pw64='</dev/urandom tr -dc '0123456789AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz@!?~+#-_' | head -c64; echo;'
+###	63 digits
+alias pw63='< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-63};echo;'
 ###	32 digits
 alias pw32='</dev/urandom tr -dc '0123456789AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz@!?~+#-_' | head -c32; echo;'
+###	31 digits
+alias pw31='< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-31};echo;'
 ###	16 digits
 alias pw16='</dev/urandom tr -dc '0123456789AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz@!?~+#-_' | head -c16; echo;'
+###	15 digits
+alias pw15='< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-15};echo;'
 ##	Random 8 digit One Time Password
 alias rotp='< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-8};echo;'
 ##	Random 8 digit TAN
