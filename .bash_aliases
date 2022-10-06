@@ -26,12 +26,12 @@ alias flushcache='sudo sh -c "sync; echo 3 > /proc/sys/vm/drop_caches"'
 ###	Flush the RAM forcefully
 ###		See:	https://www.cyberithub.com/drop-flush-clear-cache-memory-ram-in-linux/
 
-alias update='sudo apt-get update'
-alias upgrade='sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo snap refresh'
+alias ubdate='sudo apt-get update'
+alias ubgrade='sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo snap refresh'
 ###	Update the System and Packages on Ubuntu - based distros
 
 alias cls='clear'
-alias dir='ls lh'
+alias dir='ls -ahl'
 ###	faster to type
 
 function isup() { ping -a -b -c 1 -D "$@"; }
