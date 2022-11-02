@@ -33,7 +33,7 @@ But I'd also not expect Twitter to change unless [they're forced to change](http
 ## Call to Action
 #### You want to know what you can do?
 - Share this post under the hashtag [#FREEk3vk4](https://twitter.com/search?q=%23FREEk3vk4&src=typed_query&f=live) and demand reinstation of my account [@k3vk4](https://twitter.com/k3vk4)
-- Refuse to buy Twitter Premium/Professional/Verified/... Sponsorships & Acs until Twitter gets their act together.
+- Refuse to buy Twitter Premium/Professional/Verified/... Sponsored Tweets & Ads until Twitter gets their act together.
 
 Furthermore:
 - Diversify your Social Media and prevent Twitter from [monopolizing your Social Capital](https://twitter.com/k3vk4/status/1564781834193539073)
