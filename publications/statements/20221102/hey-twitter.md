@@ -3,7 +3,7 @@
 
 As of recently, Twitter Personnel not for the [first](https://twitter.com/k3vk4/status/1115207371243044865), [second](https://twitter.com/k3vk4/status/1123000144666988544) but [3rd time](screenshot_1.png) locked my account down for [no reason whatsoever](screenshot_2.png). 
 
-It's pretty obvious that [there is tweet to be deleted](screenshot_3.png) and [clicking on appeal doesn't do anything](https://twitter.com/account/access?appeal=true).
+It's pretty obvious that [there is no tweet to be deleted](screenshot_3.png) and [clicking on appeal doesn't do anything](https://twitter.com/account/access?appeal=true).
 
 ### If Twitter under [Elon Musk](https://twitter.com/elonmusk) really is a "[Free Speech](https://twitter.com/search?q=Free%20Speech%20from%3Aelonmusk&src=typed_query&f=live)" platform, then I can at least expect them to be consequent.
 
