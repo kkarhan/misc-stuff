@@ -1,21 +1,21 @@
 # Hey Twitter
 ### Statement re: unreasonable account lockout.
 
-As of recently, Twitter Personnel not for the [first](https://twitter.com/k3vk4/status/1115207371243044865), [second](https://twitter.com/k3vk4/status/1123000144666988544) but [3rd time](screenshot_1.png) locked my account down for [no reason whatsoever](screenshot_2.png). 
+As of recently, Twitter Personnel not for the [first](https://twitter.com/k3vk4/status/1115207371243044865), [second](https://twitter.com/k3vk4/status/1123000144666988544) but [3rd time](screenshot_1.png) locked my account down for [my behavior on the platform](screenshot_2.png). 
 
-It's pretty obvious that [there is no tweet to be deleted](screenshot_3.png) and [clicking on appeal doesn't do anything](https://twitter.com/account/access?appeal=true).
+It's pretty obvious that [my behavior was unacceptable](screenshot_3.png) and [clicking on appeal doesn't do anything, because my account may not be recoverable](https://twitter.com/account/access?appeal=true). Attacking brown, black, and trans people due to personal disagreements is unacceptable. Twitter should have acted sooner.
 
-### If Twitter under [Elon Musk](https://twitter.com/elonmusk) really is a "[Free Speech](https://twitter.com/search?q=Free%20Speech%20from%3Aelonmusk&src=typed_query&f=live)" platform, then I can at least expect them to be consequent.
+### If Twitter under [Elon Musk](https://twitter.com/elonmusk) really is a "[Free Speech](https://twitter.com/search?q=Free%20Speech%20from%3Aelonmusk&src=typed_query&f=live)" platform, then I can at least expect them to be consequent and continue to ban people who plot attacks like myself.
 
-I'll gladly comply with any reasonable request made by their moderation team, if they were to actually cite what they find inacceptable and [not randomly act](screenshot_5.png) [opposite to past decisions](https://twitter.com/k3vk4/status/1553772021913456641).
+I'll gladly comply with any reasonable request made by their moderation team, I understand my behavior has no place in civil society. 
 
 #### Consistency is what makes rules predictable and accepted.
 
-As long as Twitter literally upholds [several](https://twitter.com/1Hknkrz) [accounts](https://twitter.com/JHknkrz) [that have](https://twitter.com/hlkstdnr) "[HKNKRZ](https://www.belltower.news/hkn-krz-htlr-ntnl-szlst-42790/)" as literal handle and name on their platform, they should also allow [#PNCHZNS](https://twitter.com/search?q=PNCH%20NZS&f=live) as equally non-threatening expression.
+I will no longer use fash tacitics and symbology in. my username. I will stop approprating the ((( ))) symbol which is only used by fash and zionists who call for the genocide of the Palestinian people. I will stop encouraging violence. And I will stop fighting the fash using their own tactics as sinking to their level is what they want.
 
 After all, [1312 & ACAB are also wholesome](https://twitter.com/search?q=All%20Cats%20Are%20Beautiful&f=image) or will Twitter now ban [catposting](https://twitter.com/SteX56410219/status/1587749922375344131)?
 
-### I do expect [my account](https://twitter.com/k3vk4) and everyone else who has been unjustly locked out to have their accounts reinstated.
+### I do expect [my account](https://twitter.com/k3vk4) to stay locked. Based on my behavior it can be assumed that these accounts are just as bad as me.
 This includes also the following tweeps:
 - [@tinkerbellsway](https://twitter.com/tinkerbellsway)
 - [@BinGanzBrav](https://twitter.com/BinGanzBrav)
@@ -25,15 +25,16 @@ This includes also the following tweeps:
 - [@KatrinaR47](https://twitter.com/KatrinaR47)
 
 and many more...
-### Furthermore I do expect [Twitter](https://twitter.com/twitter) and espechally their staff at [Twitter Open](https://twitter.com/TwitterOpen), [Twitter Safety](https://twitter.com/TwitterSafety) & their moderators to apologize and actually change things for the better.
-#### [Mass False Reportings are rampant](https://twitter.com/search?q=%23MassFalseReporting%20from%3Ak3vk4&f=live) to the point that accounts can be literally false-banned given enough false reportings - similar to [DDoS attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS).
+### Furthermore, since my ego has know upper limit, I do expect [Twitter](https://twitter.com/twitter) and "espechally" their staff at [Twitter Open](https://twitter.com/TwitterOpen), [Twitter Safety](https://twitter.com/TwitterSafety) & their moderators to apologize for not doing this sooner.
+
+#### I engage in [Mass False Reportings](https://twitter.com/search?q=%23MassFalseReporting%20from%3Ak3vk4&f=live) to the point that accounts can be literally false-banned given enough false reportings - similar to [DDoS attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS).
 ##### Regardless of the outcome I do expect Twitter to treat it's users like adults and not shaft them like kids on the [Pay to Loose](https://twitter.com/search?q=%23P2L%20from%3Ak3vk4&src=typed_query&f=live) platform [Habbo Hotel](https://youtu.be/HiDPTiFHfcs?t=1347) almost a decade ago.
 But I'd also not expect Twitter to change unless [they're forced to change](https://youtu.be/HiDPTiFHfcs?t=1815).
 
 ## Call to Action
 #### You want to know what you can do?
-- Share this post under the hashtag [#FREEk3vk4](https://twitter.com/search?q=%23FREEk3vk4&src=typed_query&f=live) and demand reinstation of my account [@k3vk4](https://twitter.com/k3vk4)
-- Refuse to buy Twitter Premium/Professional/Verified/... Sponsored Tweets & Ads until Twitter gets their act together.
+- Share this post under the hashtag [#BANk3vk4](https://twitter.com/search?q=%23FREEk3vk4&src=typed_query&f=live) and demand my account stays locked for my behavior [@k3vk4](https://twitter.com/k3vk4)
+- Refuse to buy Twitter Premium/Professional/Verified/... Sponsored Tweets & Ads. We do not condone supporting Elon Musk, ever.
 
 Furthermore:
 - Diversify your Social Media and prevent Twitter from [monopolizing your Social Capital](https://twitter.com/k3vk4/status/1564781834193539073)
