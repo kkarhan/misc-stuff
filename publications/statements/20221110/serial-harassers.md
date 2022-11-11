@@ -31,7 +31,8 @@ Not that I'd be scared - [far from it](https://twitter.com/k3vk4/status/15618596
 We've all seen with [KiwiFarms](https://en.wikipedia.org/wiki/Kiwi_Farms), organized serial harrasment doesn't stop with "just mean words on the internet".
 ###### But don't worry: All legal precautions and contingencies have been taken and in my opinion, noone ever dared to show up.
 
-#### So behave yourselves everyone and don't get any bad ideas... They don't deserve the "Honor of Martyrdom" by engineering a shallow self-victimization campaign that solely aims .
+#### So behave yourselves everyone and don't get any bad ideas... They don't deserve the "Honor of Martyrdom" by engineering a shallow self-victimization campaign that solely aims at trying to paint anyone who disagrees with them as bad and every bootlicker of theirs as good.
+##### Even if they are bad people by words and actions, they do not deserve getting any "moral high ground" through mistreatment.
 Also the ["Muskverse" is rotting](https://twitter.com/Grownded/status/1589760967034142721) faster than unchilled raw chicken in tropical heat!
 
 I do get the feeling that their [Mass False Reporting](https://twitter.com/k3vk4/status/1569785196819406855) was well-timed after [the Mastodon Instance](https://mastodon.starrevolution.org) [I used](https://mastodon.starrevolution.org/@k3vk4) was either shut down or rather got their [domain squatted](https://en.wikipedia.org/wiki/Domain_drop_catching) by [rentseeking](https://en.wikipedia.org/wiki/Rent-seeking) [Registrars](https://en.wikipedia.org/wiki/Domain_name_front_running), a common practice of corporate [Cybersquatting](https://en.wikipedia.org/wiki/Cybersquatting).
