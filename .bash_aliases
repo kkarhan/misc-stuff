@@ -37,3 +37,6 @@ alias dir='ls -ahl'
 function isup() { ping -a -b -c 1 -D "$@"; }
 ###	Single Ping attempt to a specific host which has to be specified i.e. "isup duckduckgo.com"
 
+function mp3dl() { youtube-dl -x --audio-format mp3 "$@"; }
+###	download a youtube video's audio as mp3
+### requires youtube-dl to be installed
