@@ -1,6 +1,8 @@
 # Thentic.tech
-A petty scammy outlet for web3 bs.
-Original SPAM
+- A petty scammy outlet for web3 bs.
+- Grab yourselves a bucket of popcorn...
+
+### Original SPAM
 ```
 SUJECT: Automate Web3 tasks with No-code & AI
 DATE: 22.09.23 20:33 CET
@@ -20,7 +22,7 @@ All the best! Thentic team
 Logo Unsubscribe <https://u37269709.ct.sendgrid.net/ls/click?upn=DeHRVw-2BjnPy2NPHCb6lHPp5rIPdeXNsnaPPQoj0MpLknzMNmLxukys4pPSfmiAhRKuSRuoKjWa607zCOWRkfnvYwIL67YDEBbHcL-2FHIUN8U-3Dliq5_GqFZoznRSqli4YcCfBWqm4ntVoSYE0Q19sAl5xZI9L8-2Bn3c-2BCRXQrdnsyep9nYlh6rVdv2rmn2vN5a5qfV3spkorgCdsPcruH6mRP-2F9ugWaDGvqcj0J85jhrV84TNLQ93OCE9fi-2BgvTG3wVTMKcS7SOy1mFENrTBWZkAO5TmgSg2vtYJN-2BXoqIvjeBOQWzbRm-2FxO6KUtUh5592i-2FTisI8w-3D-3D> Privacy Policy <https://u37269709.ct.sendgrid.net/ls/click?upn=DeHRVw-2BjnPy2NPHCb6lHPv2HrlXoZbRNRVONvipgeD6umOsoSFn8C6mf8yf1QJ3mrPKP_GqFZoznRSqli4YcCfBWqm4ntVoSYE0Q19sAl5xZI9L8-2Bn3c-2BCRXQrdnsyep9nYlhucKS1PQj4qi63yklSU1ejQBOCPsyfAauLnoycVZPLHkliIo0Yokf3J9eQet9pCwIy84AI77LfyW-2BkPj-2FUu-2FD8g-2BG8xVAfEUiH-2BQ0tEEgwrWX2ZHptkYGW-2FiAs-2FezxJNxJqHyuxpYqAlYoYMyPyDR6A-3D-3D>, Germany, Berlin, Voßstraße 35, 10117
 ##
 
-First Reply
+### First Reply
 ```
 SUBJECT: Re: Automate Web3 tasks with No-code & AI
 FROM: Kevin Karhan <kevin@karhan.guru>
