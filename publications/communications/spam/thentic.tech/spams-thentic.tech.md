@@ -1,11 +1,11 @@
 # Thentic.tech
 A petty scammy outlet for web3 bs.
-### Original SPAM
+#### Original SPAM
+```
 #### SUJECT: Automate Web3 tasks with No-code & AI
 #### DATE: 22.09.23 20:33 CET
 #### FROM: eb@thentic.tech
 #### TO: kevin@karhan.guru
-
 Hello there! I hope you're doing good - my name is Egor, I am Founder of Thentic and former Data Engineer at Tesla.
 
 I noticed you've been following Web3 projects on Github, and I thought that you might find our no-code tool useful for your Blockchain journey. You can use it to automate blockchain tasks such as minting NFTs, analyse blockchain transactions or setting price alerts - in easy no-code environment.
@@ -17,10 +17,11 @@ Please feel free to let us know if you need any help! We are looking for early a
 All the best! Thentic team
 
 Logo Unsubscribe <https://u37269709.ct.sendgrid.net/ls/click?upn=DeHRVw-2BjnPy2NPHCb6lHPp5rIPdeXNsnaPPQoj0MpLknzMNmLxukys4pPSfmiAhRKuSRuoKjWa607zCOWRkfnvYwIL67YDEBbHcL-2FHIUN8U-3Dliq5_GqFZoznRSqli4YcCfBWqm4ntVoSYE0Q19sAl5xZI9L8-2Bn3c-2BCRXQrdnsyep9nYlh6rVdv2rmn2vN5a5qfV3spkorgCdsPcruH6mRP-2F9ugWaDGvqcj0J85jhrV84TNLQ93OCE9fi-2BgvTG3wVTMKcS7SOy1mFENrTBWZkAO5TmgSg2vtYJN-2BXoqIvjeBOQWzbRm-2FxO6KUtUh5592i-2FTisI8w-3D-3D> Privacy Policy <https://u37269709.ct.sendgrid.net/ls/click?upn=DeHRVw-2BjnPy2NPHCb6lHPv2HrlXoZbRNRVONvipgeD6umOsoSFn8C6mf8yf1QJ3mrPKP_GqFZoznRSqli4YcCfBWqm4ntVoSYE0Q19sAl5xZI9L8-2Bn3c-2BCRXQrdnsyep9nYlhucKS1PQj4qi63yklSU1ejQBOCPsyfAauLnoycVZPLHkliIo0Yokf3J9eQet9pCwIy84AI77LfyW-2BkPj-2FUu-2FD8g-2BG8xVAfEUiH-2BQ0tEEgwrWX2ZHptkYGW-2FiAs-2FezxJNxJqHyuxpYqAlYoYMyPyDR6A-3D-3D>, Germany, Berlin, Voßstraße 35, 10117
-
+```
 ##
 
-### First Reply
+#### First Reply
+```
 #### SUBJECT: Re: Automate Web3 tasks with No-code & AI
 #### FROM: Kevin Karhan <kevin@karhan.guru>
 #### DATE: 23.09.23 00:59 CET
@@ -63,16 +64,14 @@ And no, I won't klick your shitty tracker links!
 ###### Showing their Legal Adress as Voßstraße 35, 10117 Berlin, Germany
 ##### ATTACHMENT: [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
 ##### ATTACHMENT: OpenPGP Signature for said eMail
-
+```
 ##
-
 ### Reply from thentic.tech
+```
 #### SUJECT: Re: Automate Web3 tasks with No-code & AI
 #### DATE: 29.09.23 22:33 CET
 #### FROM: eb@thentic.tech
 #### TO: kevin@karhan.guru
-
-Am 29.09.23 um 22:33 schrieb Egor from Thentic:
 Hi Kevin,
 
 Thank you for reaching out to us, and we appreciate your inquiry regarding your personal data. We take data privacy seriously and are committed to ensuring compliance with the General Data Protection Regulation (GDPR).
@@ -97,12 +96,13 @@ Please be assured that we respect your data privacy rights and have taken steps 
 
 Kind regards,
 Egor
-
+```
 ###### Note: Their info is inaccurate and misleading.
 
 ##
 
 ### Reply to their bs.
+```
 #### SUJECT: Re: Automate Web3 tasks with No-code & AI
 #### DATE: 03.10.23 05:37 CET
 #### FROM: kevin@karhan.guru
@@ -145,27 +145,28 @@ Others may not be that well-behaved and kind - neither offline nor online, but I
 PS: The fact that you don't seem to have any Pubkey [or at least neither bothered to sign nor encrypt] your response completely disqualifies you for any serious work in regards to Cryptography, Privacy, Finance, or generally IT Security.
 
 But then again your website doesn't even have any security.txt file, so I can assume it's a shell company solely setup to fleece tech-illiterate VCs off their ill-gotten wealth and burn through their cash...
-
+```
 ##### ATTACHMENT: [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
 ##### ATTACHMENT: OpenPGP Signature for said eMail
 
 ##
 
 ### thentic.tech going full asshole mode
+```
 #### SUJECT: Re: Automate Web3 tasks with No-code & AI
 #### DATE: 03.10.23 09:55 CET
 #### FROM: eb@thentic.tech
 #### TO: kevin@karhan.guru
-
 Stop crying about cold emails, you can report me to whoever you want
 
 Sent from my iPhone
-
+```
 ###### NOTE: See the non-apology?
 
 ##
 
-### me: I told you not to push me, m8.
+### me: I just told you not to push me, m8.
+```
 #### SUJECT: thentic.tech - Spam, Harrassment & Unlicensed FinTech
 #### DATE: 04.10.23 13:32 CET
 #### FROM: kevin@karhan.guru
@@ -206,7 +207,7 @@ After all, I did my part in taking down far bigger operations than your tiny cry
 Wishing you - retroactively - a nice Unification Day,
 
 Kevin Karhan
-
+```
 ##### ATTACHMENT: [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
 ##### ATTACHMENT: OpenPGP Signature for said eMail
 
@@ -214,15 +215,15 @@ Kevin Karhan
 ##
 
 ### The most cowardly reply ever
+```
 #### SUJECT: Re: thentic.tech - Spam, Harrassment & Unlicensed FinTech
 #### DATE: 04.10.23 13:40 CET
 #### FROM: eb@thentic.tech 
 #### TO: kevin@karhan.guru
-
 Hi Kevin, I apologize for the inconvinience that you may have experienced. We have deleted all data related to you and added you to the unsubscribe list. We won't contact you again.
 
 All the best,
 Egor
-
+```
 ##
 
