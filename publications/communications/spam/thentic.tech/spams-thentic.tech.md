@@ -61,11 +61,11 @@ Including the light-gray on white for your legal adress...
 And no, I won't klick your shitty tracker links!
 
 
-[//]: # ATTACHMENTS:
-[//]: # - [Screenshot of Thentic.tech's Website](publications/communications/spam/thentic.tech/screenshot-attached-first-response.png)
-[//]: #  - Showing their Legal Adress as Voßstraße 35, 10117 Berlin, Germany
-[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-[//]: # - OpenPGP Signature for said eMail
+###### ATTACHMENTS:
+- [Screenshot of Thentic.tech's Website](publications/communications/spam/thentic.tech/screenshot-attached-first-response.png)
+- Showing their Legal Adress as Voßstraße 35, 10117 Berlin, Germany
+- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+- OpenPGP Signature for said eMail
 
 ##
 ### Reply from thentic.tech
@@ -101,7 +101,7 @@ Kind regards,
 Egor
 
 
-[//]: # Note: Their info is inaccurate and misleading.
+###### Note: Their info is inaccurate and misleading.
 
 ##
 
@@ -151,9 +151,9 @@ PS: The fact that you don't seem to have any Pubkey [or at least neither bothere
 
 But then again your website doesn't even have any security.txt file, so I can assume it's a shell company solely setup to fleece tech-illiterate VCs off their ill-gotten wealth and burn through their cash...
 
-[//]: # ATTACHMENTS:
-[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-[//]: # - OpenPGP Signature for said eMail
+###### ATTACHMENTS:
+- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+- OpenPGP Signature for said eMail
 
 
 ##
@@ -170,7 +170,7 @@ Stop crying about cold emails, you can report me to whoever you want
 Sent from my iPhone
 
 
-[//]: # NOTE: See the non-apology?
+###### NOTE: See the non-apology?
 
 ##
 
@@ -217,9 +217,9 @@ Wishing you - retroactively - a nice Unification Day,
 
 Kevin Karhan
 
-[//]: # ATTACHMENTS:
-[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-[//]: # - OpenPGP Signature for said eMail
+###### ATTACHMENTS:
+- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+- OpenPGP Signature for said eMail
 
 ##
 
