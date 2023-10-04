@@ -60,13 +60,12 @@ PPS: The accessibility of your eMail [White on White Text] should alone be consi
 Including the light-gray on white for your legal adress...
 And no, I won't klick your shitty tracker links!
 
-```
-ATTACHMENTS:
-```
-- [Screenshot of Thentic.tech's Website](publications/communications/spam/thentic.tech/screenshot-attached-first-response.png)
-  - Showing their Legal Adress as Voßstraße 35, 10117 Berlin, Germany
-- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-- OpenPGP Signature for said eMail
+
+[//]: # ATTACHMENTS:
+[//]: # - [Screenshot of Thentic.tech's Website](publications/communications/spam/thentic.tech/screenshot-attached-first-response.png)
+[//]: #  - Showing their Legal Adress as Voßstraße 35, 10117 Berlin, Germany
+[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+[//]: # - OpenPGP Signature for said eMail
 
 ##
 ### Reply from thentic.tech
@@ -101,9 +100,8 @@ Please be assured that we respect your data privacy rights and have taken steps 
 Kind regards,
 Egor
 
-```
-Note: Their info is inaccurate and misleading.
-```
+
+[//]: # Note: Their info is inaccurate and misleading.
 
 ##
 
@@ -152,11 +150,10 @@ Others may not be that well-behaved and kind - neither offline nor online, but I
 PS: The fact that you don't seem to have any Pubkey [or at least neither bothered to sign nor encrypt] your response completely disqualifies you for any serious work in regards to Cryptography, Privacy, Finance, or generally IT Security.
 
 But then again your website doesn't even have any security.txt file, so I can assume it's a shell company solely setup to fleece tech-illiterate VCs off their ill-gotten wealth and burn through their cash...
-```
-ATTACHMENTS:
-```
-- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-- OpenPGP Signature for said eMail
+
+[//]: # ATTACHMENTS:
+[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+[//]: # - OpenPGP Signature for said eMail
 
 
 ##
@@ -172,9 +169,8 @@ Stop crying about cold emails, you can report me to whoever you want
 
 Sent from my iPhone
 
-```
-NOTE: See the non-apology?
-```
+
+[//]: # NOTE: See the non-apology?
 
 ##
 
@@ -220,12 +216,11 @@ After all, I did my part in taking down far bigger operations than your tiny cry
 Wishing you - retroactively - a nice Unification Day,
 
 Kevin Karhan
-```
-ATTACHMENTS:
-```
-- [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
-- OpenPGP Signature for said eMail
-- 
+
+[//]: # ATTACHMENTS:
+[//]: # - [My Pubkey](publications/communications/spam/thentic.tech/kevin@karhan.guru.gpg.pubkey.txt)
+[//]: # - OpenPGP Signature for said eMail
+
 ##
 
 ### The most cowardly reply ever
@@ -240,4 +235,5 @@ Hi Kevin, I apologize for the inconvinience that you may have experienced. We ha
 All the best,
 Egor
 
+##
 
