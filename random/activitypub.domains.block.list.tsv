@@ -1,0 +1,21 @@
+#	random - activitypub.domains.block.list.tsv	LICENSED  UNDER: CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/kkarhan/misc-stuff/main/random/activitypub.domains.block.list.tsv
+#	This list contains more than fishy instances that could not fit on a different blocklist due to lack of evidence.
+#	But are known to be distrusted:
+#	Last-Modified	UNIXTIME:	1705449500
+
+#	Sussy domains
+##	Instances that not allow accessing the about page or see any profiles of users, this preventing any reports and blocks of users.
+artcrimes.gay
+
+##	Operated by Ro and/or his followers and/or accomplices
+kitty.town
+h-i.social
+mastodon.art
+thebad.space
+
+##	prevent automatic blocks via imported blocklists of accounts hosted on their site.
+rage.love
+weirder.earth
+slime.computer
+solarpunk.moe
