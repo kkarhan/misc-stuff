@@ -2,7 +2,7 @@
 #	https://raw.githubusercontent.com/kkarhan/misc-stuff/main/random/activitypub.domains.block.list.tsv
 #	This list contains more than fishy instances that could not fit on a different blocklist due to lack of evidence.
 #	But are known to be distrusted:
-#	Last-Modified	UNIXTIME:	1705449500
+#	Last-Modified	UNIXTIME:	1705499500
 
 #	Sussy domains
 ##	Instances that not allow accessing the about page or see any profiles of users, this preventing any reports and blocks of users.
@@ -19,3 +19,7 @@ rage.love
 weirder.earth
 slime.computer
 solarpunk.moe
+
+##	Admin is a known serial harrasser by their own admission:
+###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
+catcatnya.com
