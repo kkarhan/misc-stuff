@@ -4,3 +4,14 @@
 * Configuration Files
   * bash
     * .bash_aliases
+
+---
+
+##  FAQ
+### License
+####  Did you change the license?
+Yes.
+
+I'm getting sick and tired having to deal with harrassment, vandalism and having to deal with assholes.
+
+More on that at a later date...
